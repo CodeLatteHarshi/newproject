@@ -1,0 +1,62 @@
+/* public/css/checkout-styles.css */
+
+/* public/css/checkout-styles.css */
+
+body {
+    font-family: 'comic sans', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #28a745;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #28a745;
+}
+
+.card-body {
+    padding: 40px;
+}
+
+img {
+    width: 80px;
+}
+
+.btn-primary {
+    background-color: #aaff00;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #c6ccd2;
+}
